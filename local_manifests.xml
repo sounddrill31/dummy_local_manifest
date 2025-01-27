@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Remotes -->
+    <remote name="sounddrill31" fetch="https://github.com/sounddrill31" clone-depth="1" />
+
+    <!-- Repos -->
+    <!-- Device -->
+    <project path="temp/ignore/placeholder" name="dummy_local_manifest" remote="sounddrill31"/>
+</manifest>
