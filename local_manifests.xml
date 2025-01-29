@@ -5,5 +5,5 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="temp/ignore/placeholder" name="dummy_local_manifest" remote="sounddrill31"/>
+    <project path="temp/ignore/placeholder" name="dummy_local_manifest" remote="sounddrill31" revision="main" />
 </manifest>
